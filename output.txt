@@ -1,0 +1,6 @@
+Thread 0 reads: Thread 1 writes line 5
+Thread 0 reads: Thread 1 writes line 5
+Thread 0 reads: Thread 1 writes line 5
+Thread 0 reads: Thread 1 writes line 5
+Thread 0 reads: Thread 1 writes line 5
+
